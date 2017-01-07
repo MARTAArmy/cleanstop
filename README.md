@@ -2,6 +2,8 @@
 
 CleanStop is a tiny php-based application that enabled organizations to crowdsource funds for multiple projects spread out on a map. The first use of this was to fund the installation of trash cans at a large number of bus stops. Using CleanStop, all the bus stops were represented on a map, and citizens could chose the stop of their liking and donate.
 
+![Screenshot](/screenshot.png?raw=true)
+
 This is different from other crowdsourcing platforms like kicstarter, indigogo, ioby, gofundme etc in a few important ways:
 
   - You are dealing with the code: you'll need to buy PHP hosting (cheap hosting will do) and host this platform yourself. You will need technical help for that. More in "Technical Installation" section).
